@@ -1,6 +1,6 @@
     Pod::Spec.new do |s|
     s.name = "WaypointDemo"
-    s.version = "0.0.2"
+    s.version = "0.0.3"
     s.summary = "添加测试Demo"
     s.description = <<-DESC
             添加测试Demo的工具

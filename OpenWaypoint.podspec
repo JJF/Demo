@@ -13,4 +13,7 @@
     s.source_files = "OpenWaypoint", "OpenWaypoint/**/*.{h,m}"
     s.framework = "UIKit"
     s.framework = "XCTest"
+
+  s.swift_version = '5.0'                            #支持的swift版本
+
     end

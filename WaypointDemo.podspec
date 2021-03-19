@@ -11,7 +11,7 @@
     s.platform = :ios, "9.0"
     s.source = { :git => "https://github.com/JJF/Demo.git", :tag => "0.0.3" }
 
-    s.source_files = 'WaypointDemo/**/* #.{swift,h,m}'
+    s.source_files = 'WaypointDemo/**/*' #.{swift,h,m}'
     s.ios.resource_bundle = { 'WaypointDemo' => 'WaypointDemo/**/*.{png,lproj}' }  #添加资源文件
 
     s.swift_version = '5.0'
